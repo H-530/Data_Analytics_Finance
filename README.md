@@ -1,4 +1,4 @@
-# 📈 Data Analytics & Finance Project
+# 📈 Data Analytics & Finance
 
 <div align="center">
 
@@ -7,43 +7,44 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-*Análisis de datos financieros para la toma de decisiones estratégicas, evaluación de riesgos y optimización de carteras de inversión.*
+*Financial data analysis for strategic decision-making, risk assessment, and investment portfolio optimization.*
 
 </div>
 
 ---
 
-## 🧭 Tabla de Contenidos
-- [📖 Acerca del Proyecto](#-acerca-del-proyecto)
-- [✨ Características Principales](#-características-principales)
-- [🛠️ Tecnologías y Librerías](#️-tecnologías-y-librerías)
-- [📂 Estructura del Repositorio](#-estructura-del-repositorio)
-- [⚙️ Instalación y Uso](#️-instalación-y-uso)
-- [📊 Resultados y Visualizaciones](#-resultados-y-visualizaciones)
-- [🤝 Contribuciones](#-contribuciones)
-- [📜 Licencia](#-licencia)
+## 🧭 Table of Contents
+- [📖 About the Project](#-about-the-project)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack & Libraries](#️-tech-stack--libraries)
+- [📂 Repository Structure](#-repository-structure)
+- [⚙️ Installation & Usage](#️-installation--usage)
+- [📊 Results & Visualizations](#-results--visualizations)
+- [🤝 Contributing](#-contribuciones) *(or Contributing)*
+- [📜 License](#-license)
 
 ---
 
-## 📖 Acerca del Proyecto
-Este repositorio contiene un conjunto de herramientas, scripts y modelos de análisis enfocados en el sector financiero. Su objetivo principal es procesar grandes volúmenes de datos financieros, limpiar y transformar la información, y aplicar técnicas analíticas y de Machine Learning para extraer insights valiosos que faciliten la toma de decisiones económicas o de inversión.
+## 📖 About the Project
+This repository contains a collection of financial analytics tools, scripts, and models. Its main objective is to process financial datasets, perform data cleaning and transformation, and apply analytical techniques or Machine Learning models to extract actionable insights for economic and investment decisions.
 
 ---
 
-## ✨ Características Principales
-- **Limpieza y Procesamiento de Datos:** Tratamiento de valores nulos, normalización y transformación de series temporales financieras.
-- **Análisis Exploratorio (EDA):** Identificación de tendencias de mercado, volatilidad, correlaciones y anomalías.
-- **Modelado Financiero / Métricas:** Cálculo de métricas de rendimiento (como Sharpe Ratio, ROI, VaR) o modelos predictivos de precios.
-- **Visualización de Datos:** Gráficos claros e interactivos para la presentación de los resultados financieros.
+## ✨ Key Features
+- **Data Cleaning & Preprocessing:** Handling missing values, normalization, and transformation of financial time series.
+- **Exploratory Data Analysis (EDA):** Identifying market trends, volatility patterns, correlations, and anomalies.
+- **Financial Modeling & Metrics:** Calculating performance metrics (e.g., Sharpe Ratio, ROI, VaR) or predictive pricing models.
+- **Data Visualization:** Clear and insightful plots to communicate financial findings effectively.
 
 ---
 
-## 🛠️ Tecnologías y Librerías
-El proyecto está desarrollado principalmente en **Python**, utilizando las siguientes herramientas:
-* **Lenguaje:** Python 3.x
-* **Manipulación y Análisis:** `Pandas`, `NumPy`
-* **Visualización:** `Matplotlib`, `Seaborn` *(o Plotly si usas gráficos interactivos)*
-* **Datos Financieros:** `yfinance` *(si descargas datos de Yahoo Finance)* u otras fuentes.
-* **Entorno:** Jupyter Notebooks / VS Code
+## 🛠️ Tech Stack & Libraries
+This project is built using **Python**, leveraging the following tools:
+* **Language:** Python 3.x
+* **Data Manipulation & Analysis:** `Pandas`, `NumPy`
+* **Visualization:** `Matplotlib`, `Seaborn` *(or Plotly for interactive charts)*
+* **Financial Data:** `yfinance` *(or relevant financial data sources)*
+* **Environment:** Jupyter Notebooks / VS Code
 
 ---
+
